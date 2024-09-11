@@ -21,6 +21,14 @@ venv
 docs.zip
 archive.zip
 
+# frontend
+.idea/
+node_modules/
+dist/
+playground-temp/
+test-results/
+.swc/
+
 # vim temporary files
 *~
 .*.sw?
